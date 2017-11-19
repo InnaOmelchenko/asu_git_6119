@@ -1,0 +1,184 @@
+
+commit aa32fc2f961691e3db377a7ef4e3652553d8d321
+Author: Inna Omelchenko <omelchenkoinna13@gmail.com>
+Date:   Sat Nov 18 19:32:57 2017 +0200
+
+    override changes
+
+ index.html | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 3dba88bb076f1c18f2d8199e6f9c56c967f9670e
+Merge: ea534b9 2c42b61
+Author: Inna Omelchenko <omelchenkoinna13@gmail.com>
+Date:   Sat Nov 18 19:21:41 2017 +0200
+
+    Merge branch 'master' of github.com:InnaOmelchenko/asu_git_6119
+
+commit ea534b9ec766736491a9b12190f7a088d2a22f8f
+Author: Inna Omelchenko <omelchenkoinna13@gmail.com>
+Date:   Sat Nov 18 18:55:58 2017 +0200
+
+    Surname added
+
+ index.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 53337f1b169b21e32b46e0566e9c085e5fae2eed
+Author: Inna Omelchenko <omelchenkoinna13@gmail.com>
+Date:   Sat Nov 18 18:16:41 2017 +0200
+
+    canvas change
+
+ game.js | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 2c42b61c2aa2bff9bbdd98672a3b16b449d5b7c0
+Merge: 27dbd4d 06027d7
+Author: Vladislav Rybnikov <vladislavcepes98@gmail.com>
+Date:   Sat Nov 18 18:04:27 2017 +0200
+
+    Merge pull request #1 from InnaOmelchenko/alien_change
+    
+    Now alien are faster
+
+commit 06027d7541f30f8eb05cea7a4b8ad5deecfb3343
+Author: Inna Omelchenko <omelchenkoinna13@gmail.com>
+Date:   Sat Nov 18 17:27:12 2017 +0200
+
+    Now alien are faster
+
+ game.js | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 27dbd4d982e49ea6ba957e83b6d4a84f33dc6e9c
+Merge: 8ccaee7 844f6cc
+Author: Inna Omelchenko <omelchenkoinna13@gmail.com>
+Date:   Sat Nov 18 16:57:37 2017 +0200
+
+    merge commit
+
+commit 8ccaee7d59d9e8810f202b4f2138b9aad7d9e68f
+Author: Inna Omelchenko <omelchenkoinna13@gmail.com>
+Date:   Fri Nov 17 16:49:28 2017 +0200
+
+    Now aliens are faster
+
+ game.js | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 70f79f9ec72e52fb61364a2e4572b8d0429b0aaa
+Author: Inna Omelchenko <omelchenkoinna13@gmail.com>
+Date:   Fri Nov 17 15:48:12 2017 +0200
+
+    First commit(Markdown file added)
+
+ .gitignore      |  1 +
+ MarkDownFile.md | 20 ++++++++++++++++++++
+ 2 files changed, 21 insertions(+)
+
+commit 844f6cc86d3b678af4129cca447a78d04b8d40c9
+Author: Inna Omelchenko <omelchenkoinna13@gmail.com>
+Date:   Fri Nov 17 15:41:49 2017 +0200
+
+    add brake
+
+ game.js | 879 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-
+ 1 file changed, 868 insertions(+), 11 deletions(-)
+
+commit c4811ca5e99a19c03d12570a99ccfbd9f3b745a3
+Author: Inna Omelchenko <omelchenkoinna13@gmail.com>
+Date:   Fri Nov 17 15:41:49 2017 +0200
+
+    added all needed staff
+
+ ipad.js             |  35 ++++++++++++
+ jquery-1.4.1.min.js | 152 ++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 2 files changed, 187 insertions(+)
+
+commit 76f67a07aac1c02efa672d5ea5cce52ceb84d46f
+Merge: f4490f5 583a9ec
+Author: Inna Omelchenko <omelchenkoinna13@gmail.com>
+Date:   Fri Nov 17 15:41:48 2017 +0200
+
+    Merge branch 'feature/audio_effects'
+
+commit 583a9ecdb120ee41dc5b60cd0351f1a34ff48553
+Author: Inna Omelchenko <omelchenkoinna13@gmail.com>
+Date:   Fri Nov 17 15:41:48 2017 +0200
+
+    add crash audio file
+
+ 51467__smcameron__missile_explosion.wav | Bin 0 -> 86508 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 2f4a426237dfe4767246d91d3a69024801526082
+Author: Inna Omelchenko <omelchenkoinna13@gmail.com>
+Date:   Fri Nov 17 15:41:47 2017 +0200
+
+    add laser audio
+
+ 39459__THE_bizniss__laser.wav | Bin 0 -> 33970 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit f4490f5f9f23f1183e614c24e4a9d6893135fbb2
+Merge: f89834f bfb7172
+Author: Inna Omelchenko <omelchenkoinna13@gmail.com>
+Date:   Fri Nov 17 15:41:46 2017 +0200
+
+    Merge branch 'feature/add_typeface'
+
+commit f89834f680663ececbe3b28ea4840beb4d82b45b
+Author: Inna Omelchenko <omelchenkoinna13@gmail.com>
+Date:   Fri Nov 17 15:41:46 2017 +0200
+
+    finish all game logic
+
+ game.js | 767 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 767 insertions(+)
+
+commit bfb71721d236ce36fff3e83fc5e371242d386a70
+Author: Inna Omelchenko <omelchenkoinna13@gmail.com>
+Date:   Fri Nov 17 15:41:46 2017 +0200
+
+    added glyphs
+
+ vector_battle_regular.typeface.js | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit 368de8f1db561d0868a94715e69aad04f4b55541
+Author: Inna Omelchenko <omelchenkoinna13@gmail.com>
+Date:   Fri Nov 17 15:41:45 2017 +0200
+
+    add sprite part
+
+ game.js | 365 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 365 insertions(+)
+
+commit d9614e7d5f37af1fb291d44e3eeabc08eb7d8581
+Author: Inna Omelchenko <omelchenkoinna13@gmail.com>
+Date:   Fri Nov 17 15:41:45 2017 +0200
+
+    add ship
+
+ game.js | 82 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 82 insertions(+)
+
+commit b38756a704daebfc1cd6ba4545c2374d5d3e4d79
+Author: Inna Omelchenko <omelchenkoinna13@gmail.com>
+Date:   Fri Nov 17 15:41:44 2017 +0200
+
+    init commit
+
+ .idea/.name                     |   1 +
+ .idea/asu_git_tutorial.iml      |   8 ++
+ .idea/encodings.xml             |   4 +
+ .idea/misc.xml                  |   4 +
+ .idea/modules.xml               |   8 ++
+ .idea/scopes/scope_settings.xml |   5 +
+ .idea/vcs.xml                   |   6 ++
+ .idea/workspace.xml             | 196 ++++++++++++++++++++++++++++++++++++++++
+ LICENSE                         |  19 ++++
+ README.md                       |   5 +
+ index.html                      |  31 +++++++
+ 11 files changed, 287 insertions(+)

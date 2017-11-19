@@ -1,0 +1,31 @@
+* formataa32fc2 override changes
+*   format3dba88b Merge branch 'master' of github.com:InnaOmelchenko/asu_git_6119
+|\  
+| *   format2c42b61 Merge pull request #1 from InnaOmelchenko/alien_change
+| |\  
+* | | formatea534b9 Surname added
+* | | format53337f1 canvas change
+| |/  
+|/|   
+* | format06027d7 Now alien are faster
+|/  
+*   format27dbd4d merge commit
+|\  
+| * format844f6cc add brake
+* | format8ccaee7 Now aliens are faster
+* | format70f79f9 First commit(Markdown file added)
+* | formatc4811ca added all needed staff
+* |   format76f67a0 Merge branch 'feature/audio_effects'
+|\ \  
+| * | format583a9ec add crash audio file
+| * | format2f4a426 add laser audio
+* | |   formatf4490f5 Merge branch 'feature/add_typeface'
+|\ \ \  
+| * | | formatbfb7172 added glyphs
+|/ / /  
+* | | formatf89834f finish all game logic
+|/ /  
+* | formatd9614e7 add ship
+|/  
+* format368de8f add sprite part
+* formatb38756a init commit
